@@ -1,0 +1,16 @@
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.csproj.AssemblyReference.cache
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.AssemblyInfoInputs.cache
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.AssemblyInfo.cs
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.csproj.CoreCompileInputs.cache
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\Projeto_Serie.exe
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\Projeto_Serie.deps.json
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\Projeto_Serie.runtimeconfig.json
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\Projeto_Serie.runtimeconfig.dev.json
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\Projeto_Serie.dll
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\ref\Projeto_Serie.dll
+D:\GitHub_\Projeto_Serie\bin\Debug\net5.0\Projeto_Serie.pdb
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.dll
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\ref\Projeto_Serie.dll
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.pdb
+D:\GitHub_\Projeto_Serie\obj\Debug\net5.0\Projeto_Serie.genruntimeconfig.cache
