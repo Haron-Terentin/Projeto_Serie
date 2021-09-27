@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub_\\Projeto_Serie\\Projeto_Serie.csproj": {}
+    "C:\\Users\\hterentin\\Proj\\Projeto_Serie\\Projeto_Serie.csproj": {}
   },
   "projects": {
-    "D:\\GitHub_\\Projeto_Serie\\Projeto_Serie.csproj": {
+    "C:\\Users\\hterentin\\Proj\\Projeto_Serie\\Projeto_Serie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub_\\Projeto_Serie\\Projeto_Serie.csproj",
+        "projectUniqueName": "C:\\Users\\hterentin\\Proj\\Projeto_Serie\\Projeto_Serie.csproj",
         "projectName": "Projeto_Serie",
-        "projectPath": "D:\\GitHub_\\Projeto_Serie\\Projeto_Serie.csproj",
-        "packagesPath": "C:\\Users\\haron\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub_\\Projeto_Serie\\obj\\",
+        "projectPath": "C:\\Users\\hterentin\\Proj\\Projeto_Serie\\Projeto_Serie.csproj",
+        "packagesPath": "C:\\Users\\hterentin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hterentin\\Proj\\Projeto_Serie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\haron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hterentin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
